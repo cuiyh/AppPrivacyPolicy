@@ -59,6 +59,9 @@ These Services do not address anyone under the age of 13\. I do not knowingly co
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+**Attention, very important**
+Please note that this app does not store any of your account information, just call your Google account within the app to make it easier for you to log in quickly, and the app will ask you for the necessary permissions to get your YouTube subscription to complete the follow-up action, if You disagree with the authorization, directly reject and uninstall the app. For European users, if you are not willing to accept personalized Google ads, you can set it to not accept personalized ads in your Google account, if you view this privacy After the policy is still used for login, we will treat you as having agreed to this privacy policy.
+
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at cyhlife@gmail.com.
