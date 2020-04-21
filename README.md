@@ -61,7 +61,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 **Attention, very important**
 
-Please note this app does not modify the ability to save and delete any of your account information, just call your Google account within the app to make it easier for you to log in quickly, and the app will ask you for the necessary permissions to get your YouTube subscription to complete the follow-up action, if You disagree with the authorization, directly reject and uninstall the app. For European users, if you are not willing to accept personalized Google ads, you can set it to not accept personalized ads in your Google account, if you view this privacy After the policy is still used for login, we will treat you as having agreed to this privacy policy.
+Please note this app does not modify the ability to save and delete any of your account information, just call your Google account within the app to make it easier for you to log in quickly, and the app will ask you for the necessary permissions to get your YouTube subscription to complete the follow-up action, if You disagree with the authorization, directly reject and uninstall the app. For European users, if you are not willing to accept personalized Google ads, you can set it to not accept personalized ads in your Google account, if you view this privacy After the policy is still used for login, we will treat you as having agreed to this privacy policy.For users who repeatedly violate the rules, the account will be closed.
 
 **Contact Us**
 
