@@ -1,20 +1,18 @@
 ## Privacy Policy
 
-cuiyh built the U2Boost app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+Cuiyh built the U2Boost app as a free application. This **SERVICE** is provided by Cuiyh at no cost and is intended for use as-is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page informs users of my policies regarding the collection, use, and disclosure of Personal Information for anyone choosing to use this Service.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+By using this Service, you agree to the collection and use of information in accordance with this policy. The Personal Information collected is used solely for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at YtcSub Boost unless otherwise defined in this Privacy Policy.
+Terms used in this Privacy Policy have the same definitions as in our Terms and Conditions, accessible within the YtcSub Boost app unless otherwise stated here.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+To enhance your experience while using our Service, I may request certain personally identifiable information. This information will be retained locally on your device and is not collected by me directly.
 
-The app does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the app
+The app does utilize third-party services that may collect data used to identify you. Below are links to their privacy policies:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
@@ -24,47 +22,45 @@ Link to privacy policy of third party service providers used by the app
 
 **Log Data**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+If an error occurs while using the Service, I collect Log Data via third-party tools. This may include your device’s Internet Protocol (IP) address, device name, operating system version, app configuration details, timestamps of usage, and other diagnostic information.
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Cookies (files containing small amounts of data) are not explicitly used by this Service. However, third-party libraries or code within the app may employ cookies to collect information and enhance their services. You may accept or refuse these cookies. Note that refusing cookies may limit access to certain Service features.
 
 **Service Providers**
 
-I may employ third-party companies and individuals due to the following reasons:
-
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
-
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I may employ third-party companies or individuals for the following purposes:
+Facilitating the Service;
+Providing the Service on my behalf;
+Performing Service-related functions;
+Analyzing Service usage.
+These third parties may access your Personal Information solely to perform assigned tasks and are obligated not to disclose or misuse it.
 
 **Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+While I strive to protect your Personal Information using commercially acceptable methods, no internet transmission or electronic storage is 100% secure. I cannot guarantee absolute security.
 
-**Links to Other Sites**
+**Links to External Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to third-party websites. These sites are not operated by me, and I assume no responsibility for their content, privacy policies, or practices. Review their policies before interacting with them.
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+This Service is not intended for users under 13. I do not knowingly collect personally identifiable information from children under 13. If I discover such information has been provided, it will be promptly deleted. Parents/guardians aware of their child’s unauthorized data sharing should contact me for corrective action.
 
-**Changes to This Privacy Policy**
+**Changes to This Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+I may update this Privacy Policy periodically. You will be notified of changes by the revised policy being posted here. Changes take effect immediately upon posting.
 
-**Attention, very important**
+**Important Notes**
 
-Please note this app does not modify the ability to save and delete any of your account information, just call your Google account within the app to make it easier for you to log in quickly, and the app will ask you for the necessary permissions to get your YouTube subscription to complete the follow-up action, if You disagree with the authorization, directly reject and uninstall the app. For European users, if you are not willing to accept personalized Google ads, you can set it to not accept personalized ads in your Google account, if you view this privacy After the policy is still used for login, we will treat you as having agreed to this privacy policy.For users who repeatedly violate the rules, the account will be closed.
+This app does not modify, save, or delete your account information.
+It accesses your Google account solely to streamline login processes.
+Required permissions (e.g., YouTube subscription access) are necessary for functionality. If you disagree with these permissions, reject them and uninstall the app.
+European users may opt out of personalized Google ads via their Google account settings. Continued use after reviewing this policy constitutes acceptance of its terms.
+Accounts violating rules repeatedly will be terminated.
 
-**Contact Us**
+**Contact Me**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at cyhlife@gmail.com.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+For questions or suggestions about this Privacy Policy, contact me at cyhlife@gmail.com.
